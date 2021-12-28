@@ -1,0 +1,4 @@
+D:/cmake-tutorial/build/CMakeFiles/cmake-tutorial.dir
+D:/cmake-tutorial/build/CMakeFiles/INSTALL.dir
+D:/cmake-tutorial/build/CMakeFiles/ALL_BUILD.dir
+D:/cmake-tutorial/build/CMakeFiles/ZERO_CHECK.dir
