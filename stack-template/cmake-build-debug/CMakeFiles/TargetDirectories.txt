@@ -1,0 +1,3 @@
+C:/Users/ASUS/Downloads/stack-template/cmake-build-debug/CMakeFiles/stack_template.dir
+C:/Users/ASUS/Downloads/stack-template/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/Downloads/stack-template/cmake-build-debug/CMakeFiles/rebuild_cache.dir

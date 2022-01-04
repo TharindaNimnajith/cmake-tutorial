@@ -1,0 +1,3 @@
+C:/Users/ASUS/Downloads/stack-data-structure/cmake-build-debug/CMakeFiles/stack_data_structure.dir
+C:/Users/ASUS/Downloads/stack-data-structure/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/Downloads/stack-data-structure/cmake-build-debug/CMakeFiles/rebuild_cache.dir
