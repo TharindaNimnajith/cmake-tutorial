@@ -1,268 +1,237 @@
 {
-	"configurations" : 
-	[
-		{
-			"directories" : 
-			[
-				{
-					"build" : ".",
-					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-9b0c7c00845a120ac6d0.json",
-					"minimumCMakeVersion" : 
-					{
-						"string" : "3.21.1"
-					},
-					"projectIndex" : 0,
-					"source" : ".",
-					"targetIndexes" : 
-					[
-						0,
-						1,
-						2
-					]
-				}
-			],
-			"name" : "Debug",
-			"projects" : 
-			[
-				{
-					"directoryIndexes" : 
-					[
-						0
-					],
-					"name" : "cmake-tutorial",
-					"targetIndexes" : 
-					[
-						0,
-						1,
-						2
-					]
-				}
-			],
-			"targets" : 
-			[
-				{
-					"directoryIndex" : 0,
-					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-Debug-7bb61810fca0e3140f6b.json",
-					"name" : "ALL_BUILD",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
-					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ZERO_CHECK-Debug-90eb13c1c2f64f0cefd2.json",
-					"name" : "ZERO_CHECK",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
-					"id" : "cmake-tutorial::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-cmake-tutorial-Debug-60e27f7ff761ebc3d1fd.json",
-					"name" : "cmake-tutorial",
-					"projectIndex" : 0
-				}
-			]
-		},
-		{
-			"directories" : 
-			[
-				{
-					"build" : ".",
-					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Release-9c6ee5f20d1e83101c2b.json",
-					"minimumCMakeVersion" : 
-					{
-						"string" : "3.21.1"
-					},
-					"projectIndex" : 0,
-					"source" : ".",
-					"targetIndexes" : 
-					[
-						0,
-						1,
-						2
-					]
-				}
-			],
-			"name" : "Release",
-			"projects" : 
-			[
-				{
-					"directoryIndexes" : 
-					[
-						0
-					],
-					"name" : "cmake-tutorial",
-					"targetIndexes" : 
-					[
-						0,
-						1,
-						2
-					]
-				}
-			],
-			"targets" : 
-			[
-				{
-					"directoryIndex" : 0,
-					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-Release-7bb61810fca0e3140f6b.json",
-					"name" : "ALL_BUILD",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
-					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ZERO_CHECK-Release-90eb13c1c2f64f0cefd2.json",
-					"name" : "ZERO_CHECK",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
-					"id" : "cmake-tutorial::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-cmake-tutorial-Release-2879ee61ade0fb3cd021.json",
-					"name" : "cmake-tutorial",
-					"projectIndex" : 0
-				}
-			]
-		},
-		{
-			"directories" : 
-			[
-				{
-					"build" : ".",
-					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-MinSizeRel-3e5ea8b67eb5fa2bc8d5.json",
-					"minimumCMakeVersion" : 
-					{
-						"string" : "3.21.1"
-					},
-					"projectIndex" : 0,
-					"source" : ".",
-					"targetIndexes" : 
-					[
-						0,
-						1,
-						2
-					]
-				}
-			],
-			"name" : "MinSizeRel",
-			"projects" : 
-			[
-				{
-					"directoryIndexes" : 
-					[
-						0
-					],
-					"name" : "cmake-tutorial",
-					"targetIndexes" : 
-					[
-						0,
-						1,
-						2
-					]
-				}
-			],
-			"targets" : 
-			[
-				{
-					"directoryIndex" : 0,
-					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-MinSizeRel-7bb61810fca0e3140f6b.json",
-					"name" : "ALL_BUILD",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
-					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-90eb13c1c2f64f0cefd2.json",
-					"name" : "ZERO_CHECK",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
-					"id" : "cmake-tutorial::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-cmake-tutorial-MinSizeRel-0ed812eddd92af92c415.json",
-					"name" : "cmake-tutorial",
-					"projectIndex" : 0
-				}
-			]
-		},
-		{
-			"directories" : 
-			[
-				{
-					"build" : ".",
-					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-RelWithDebInfo-d1847e051b043fc638f4.json",
-					"minimumCMakeVersion" : 
-					{
-						"string" : "3.21.1"
-					},
-					"projectIndex" : 0,
-					"source" : ".",
-					"targetIndexes" : 
-					[
-						0,
-						1,
-						2
-					]
-				}
-			],
-			"name" : "RelWithDebInfo",
-			"projects" : 
-			[
-				{
-					"directoryIndexes" : 
-					[
-						0
-					],
-					"name" : "cmake-tutorial",
-					"targetIndexes" : 
-					[
-						0,
-						1,
-						2
-					]
-				}
-			],
-			"targets" : 
-			[
-				{
-					"directoryIndex" : 0,
-					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-7bb61810fca0e3140f6b.json",
-					"name" : "ALL_BUILD",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
-					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-90eb13c1c2f64f0cefd2.json",
-					"name" : "ZERO_CHECK",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
-					"id" : "cmake-tutorial::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-cmake-tutorial-RelWithDebInfo-bc7a1f934d96d90baf9b.json",
-					"name" : "cmake-tutorial",
-					"projectIndex" : 0
-				}
-			]
-		}
-	],
-	"kind" : "codemodel",
-	"paths" : 
-	{
-		"build" : "D:/cmake-tutorial/build",
-		"source" : "D:/cmake-tutorial"
-	},
-	"version" : 
-	{
-		"major" : 2,
-		"minor" : 3
-	}
+  "configurations": [
+    {
+      "directories": [
+        {
+          "build": ".",
+          "hasInstallRule": true,
+          "jsonFile": "directory-.-Debug-9b0c7c00845a120ac6d0.json",
+          "minimumCMakeVersion": {
+            "string": "3.21.1"
+          },
+          "projectIndex": 0,
+          "source": ".",
+          "targetIndexes": [
+            0,
+            1,
+            2
+          ]
+        }
+      ],
+      "name": "Debug",
+      "projects": [
+        {
+          "directoryIndexes": [
+            0
+          ],
+          "name": "cmake-tutorial",
+          "targetIndexes": [
+            0,
+            1,
+            2
+          ]
+        }
+      ],
+      "targets": [
+        {
+          "directoryIndex": 0,
+          "id": "ALL_BUILD::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-ALL_BUILD-Debug-7bb61810fca0e3140f6b.json",
+          "name": "ALL_BUILD",
+          "projectIndex": 0
+        },
+        {
+          "directoryIndex": 0,
+          "id": "ZERO_CHECK::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-ZERO_CHECK-Debug-90eb13c1c2f64f0cefd2.json",
+          "name": "ZERO_CHECK",
+          "projectIndex": 0
+        },
+        {
+          "directoryIndex": 0,
+          "id": "cmake-tutorial::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-cmake-tutorial-Debug-60e27f7ff761ebc3d1fd.json",
+          "name": "cmake-tutorial",
+          "projectIndex": 0
+        }
+      ]
+    },
+    {
+      "directories": [
+        {
+          "build": ".",
+          "hasInstallRule": true,
+          "jsonFile": "directory-.-Release-9c6ee5f20d1e83101c2b.json",
+          "minimumCMakeVersion": {
+            "string": "3.21.1"
+          },
+          "projectIndex": 0,
+          "source": ".",
+          "targetIndexes": [
+            0,
+            1,
+            2
+          ]
+        }
+      ],
+      "name": "Release",
+      "projects": [
+        {
+          "directoryIndexes": [
+            0
+          ],
+          "name": "cmake-tutorial",
+          "targetIndexes": [
+            0,
+            1,
+            2
+          ]
+        }
+      ],
+      "targets": [
+        {
+          "directoryIndex": 0,
+          "id": "ALL_BUILD::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-ALL_BUILD-Release-7bb61810fca0e3140f6b.json",
+          "name": "ALL_BUILD",
+          "projectIndex": 0
+        },
+        {
+          "directoryIndex": 0,
+          "id": "ZERO_CHECK::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-ZERO_CHECK-Release-90eb13c1c2f64f0cefd2.json",
+          "name": "ZERO_CHECK",
+          "projectIndex": 0
+        },
+        {
+          "directoryIndex": 0,
+          "id": "cmake-tutorial::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-cmake-tutorial-Release-2879ee61ade0fb3cd021.json",
+          "name": "cmake-tutorial",
+          "projectIndex": 0
+        }
+      ]
+    },
+    {
+      "directories": [
+        {
+          "build": ".",
+          "hasInstallRule": true,
+          "jsonFile": "directory-.-MinSizeRel-3e5ea8b67eb5fa2bc8d5.json",
+          "minimumCMakeVersion": {
+            "string": "3.21.1"
+          },
+          "projectIndex": 0,
+          "source": ".",
+          "targetIndexes": [
+            0,
+            1,
+            2
+          ]
+        }
+      ],
+      "name": "MinSizeRel",
+      "projects": [
+        {
+          "directoryIndexes": [
+            0
+          ],
+          "name": "cmake-tutorial",
+          "targetIndexes": [
+            0,
+            1,
+            2
+          ]
+        }
+      ],
+      "targets": [
+        {
+          "directoryIndex": 0,
+          "id": "ALL_BUILD::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-ALL_BUILD-MinSizeRel-7bb61810fca0e3140f6b.json",
+          "name": "ALL_BUILD",
+          "projectIndex": 0
+        },
+        {
+          "directoryIndex": 0,
+          "id": "ZERO_CHECK::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-ZERO_CHECK-MinSizeRel-90eb13c1c2f64f0cefd2.json",
+          "name": "ZERO_CHECK",
+          "projectIndex": 0
+        },
+        {
+          "directoryIndex": 0,
+          "id": "cmake-tutorial::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-cmake-tutorial-MinSizeRel-0ed812eddd92af92c415.json",
+          "name": "cmake-tutorial",
+          "projectIndex": 0
+        }
+      ]
+    },
+    {
+      "directories": [
+        {
+          "build": ".",
+          "hasInstallRule": true,
+          "jsonFile": "directory-.-RelWithDebInfo-d1847e051b043fc638f4.json",
+          "minimumCMakeVersion": {
+            "string": "3.21.1"
+          },
+          "projectIndex": 0,
+          "source": ".",
+          "targetIndexes": [
+            0,
+            1,
+            2
+          ]
+        }
+      ],
+      "name": "RelWithDebInfo",
+      "projects": [
+        {
+          "directoryIndexes": [
+            0
+          ],
+          "name": "cmake-tutorial",
+          "targetIndexes": [
+            0,
+            1,
+            2
+          ]
+        }
+      ],
+      "targets": [
+        {
+          "directoryIndex": 0,
+          "id": "ALL_BUILD::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-ALL_BUILD-RelWithDebInfo-7bb61810fca0e3140f6b.json",
+          "name": "ALL_BUILD",
+          "projectIndex": 0
+        },
+        {
+          "directoryIndex": 0,
+          "id": "ZERO_CHECK::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-ZERO_CHECK-RelWithDebInfo-90eb13c1c2f64f0cefd2.json",
+          "name": "ZERO_CHECK",
+          "projectIndex": 0
+        },
+        {
+          "directoryIndex": 0,
+          "id": "cmake-tutorial::@6890427a1f51a3e7e1df",
+          "jsonFile": "target-cmake-tutorial-RelWithDebInfo-bc7a1f934d96d90baf9b.json",
+          "name": "cmake-tutorial",
+          "projectIndex": 0
+        }
+      ]
+    }
+  ],
+  "kind": "codemodel",
+  "paths": {
+    "build": "D:/cmake-tutorial/build",
+    "source": "D:/cmake-tutorial"
+  },
+  "version": {
+    "major": 2,
+    "minor": 3
+  }
 }
